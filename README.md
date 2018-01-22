@@ -7,7 +7,7 @@
 1. Wiki:
     + [Doku Wiki](https://ru.wikipedia.org/wiki/DokuWiki)
     + ikiwiki
-    + Oddmuse
+    + [Oddmuse](https://ru.wikipedia.org/wiki/Oddmuse)
     + PmWiki (с помощью плагина)
 2. Блоги:
     1. Tumblr — изначально отключён, но можно использовать, включив в настройках.
