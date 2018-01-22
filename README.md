@@ -12,7 +12,7 @@
 2. [Блоги:](https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3)
     1. [Tumblr](https://ru.wikipedia.org/wiki/Tumblr) — изначально отключён, но можно использовать, включив в настройках.
     2. scriptogr.am
-3. CMS:
+3. [CMS:](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%BC%D1%8B%D0%BC)
     + Drupal — content-фильтр Markdown[43]
     + Magento — с помощью модуля[44]
     + Plone — «родная» поддержка в Plone 3
