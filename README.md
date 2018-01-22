@@ -9,7 +9,7 @@
     + ikiwiki
     + [Oddmuse](https://ru.wikipedia.org/wiki/Oddmuse)
     + PmWiki (с помощью плагина)
-2. Блоги:
+2. [Блоги:](https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3)
     1. Tumblr — изначально отключён, но можно использовать, включив в настройках.
     2. scriptogr.am
 3. CMS:
